@@ -29,7 +29,7 @@ follow rule no.1 and no.2
 #package review
 
 * I trust contributors that have commit rights, therefore commitors
-  should think carfully befor committing.
+  should think carfully before committing.
 
 * If you want to discuss your commit/patch, push to *another branch*
   and discuss in the mail list or with the maintainer.
